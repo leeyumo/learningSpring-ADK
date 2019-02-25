@@ -3,7 +3,7 @@ swagger: "2.0"
 info:
   description: "API For LearningSpring Service"
   version: "v1"
-  title: "learningSpring"
+  title: "learningspring"
 host: "localhost:8020"
 basePath: "/learningSpring/"
 tags:
